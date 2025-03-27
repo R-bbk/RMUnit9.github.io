@@ -5,7 +5,7 @@
 </head>
 <body>
     <header>
-        <h1>The Impacts Of Globalization (1900-Now)</h1>
+        <h1>The Impacts Of Globalization (1900- Now)</h1>
     </header>
     <section class="container">
         <h2>Introduction to Globalization</h2>
@@ -51,7 +51,7 @@
     <li>Fast Food Chains: McDonald's in different countries.</li>
 </ul>
 <video controls>
-    <source src="g[lobal-music.mp4](https://www.youtube.com/watch?v=a2YDx6MGXe8)" type="video/mp4">
+    <source src="g[lobal-music.mp4](https://www.youtube.com/watch?v=a2YDx6MGXe8)" type="https://www.youtube.com/watch?v=a2YDx6MGXe8">
 </video>
 
 <h2>Challenges of Globalization</h2>
