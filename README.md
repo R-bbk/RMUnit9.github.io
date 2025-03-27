@@ -1,3 +1,4 @@
+<background color=R0G0B0>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
