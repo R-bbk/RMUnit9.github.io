@@ -50,8 +50,8 @@
     <li>Music & Entertainment: K-pop, Hollywood.</li>
     <li>Fast Food Chains: McDonald's in different countries.</li>
 </ul>
-<video controls>
-    <source src="g[lobal-music.mp4](https://www.youtube.com/watch?v=a2YDx6MGXe8)" type="https://www.youtube.com/watch?v=a2YDx6MGXe8">
+<video controls> https://www.youtube.com/watch?v=a2YDx6MGXe8
+    <source 
 </video>
 
 <h2>Challenges of Globalization</h2>
@@ -60,7 +60,7 @@
     <li>Climate Change: Pollution and deforestation.</li>
     <li>Economic Inequality: Wage gaps between nations.</li>
 </ul>
-<img src="environment-map.jpg" alt="Environmental Issues">
+<img src="[environment-map.jpg](https://images.squarespace-cdn.com/content/v1/53b17013e4b0f83f2d8a8a4a/1584651569014-KONF7ZCJHYT2KVL8FIUV/DISEASES+AP+WORLD+MODERN+FREEMANPEDIA.jpg?format=2500w)" alt="Environmental Issues">
 
 <h2>Reactions to Globalization</h2>
 <p>Different perspectives:</p>
