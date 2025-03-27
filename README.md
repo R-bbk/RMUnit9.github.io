@@ -50,9 +50,8 @@
     <li>Music & Entertainment: K-pop, Hollywood.</li>
     <li>Fast Food Chains: McDonald's in different countries.</li>
 </ul>
-<insert Video> <https://www.youtube.com/watch?v=a2YDx6MGXe8>
-    <source 
-</video>
+<insert Video> <vid src="https://www.youtube.com/watch?v=a2YDx6MGXe8">
+   
 
 <h2>Challenges of Globalization</h2>
 <p>Key challenges include:</p>
