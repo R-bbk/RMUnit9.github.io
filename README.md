@@ -60,7 +60,7 @@
     <li>Climate Change: Pollution and deforestation.</li>
     <li>Economic Inequality: Wage gaps between nations.</li>
 </ul>
-<img src="https://images.squarespace-cdn.com/content/v1/53b17013e4b0f83f2d8a8a4a/1502110602541-BKWZ7YSEW37YFCG06Y58/image-asset.jpeg"
+<Insert Image> <img src="https://images.squarespace-cdn.com/content/v1/53b17013e4b0f83f2d8a8a4a/1502110602541-BKWZ7YSEW37YFCG06Y58/image-asset.jpeg">
 
 <h2>Reactions to Globalization</h2>
 <p>Different perspectives:</p>
