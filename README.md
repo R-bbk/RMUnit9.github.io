@@ -60,7 +60,7 @@
     <li>Climate Change: Pollution and deforestation.</li>
     <li>Economic Inequality: Wage gaps between nations.</li>
 </ul>
-<img src="[environment-map.jpg](https://images.squarespace-cdn.com/content/v1/53b17013e4b0f83f2d8a8a4a/1584651569014-KONF7ZCJHYT2KVL8FIUV/DISEASES+AP+WORLD+MODERN+FREEMANPEDIA.jpg?format=2500w)" alt="Environmental Issues">
+<img src="https://images.squarespace-cdn.com/content/v1/53b17013e4b0f83f2d8a8a4a/1502110602541-BKWZ7YSEW37YFCG06Y58/image-asset.jpeg"
 
 <h2>Reactions to Globalization</h2>
 <p>Different perspectives:</p>
