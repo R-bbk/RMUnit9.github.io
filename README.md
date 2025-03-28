@@ -13,7 +13,7 @@
         <p>It affects daily life by providing access to global products, diverse cultures, and new job opportunities.</p>
         <nav>
             <ul>
-                <li><a href="{{ url_for('technology') }}">Technology and Innovation</a></li>
+                <li><a href="{{ url_for('Technology and Innovation') }}">Technology and Innovation</a></li>
                 <li><a href="{{ url_for('economic') }}">Economic Globalization</a></li>
                 <li><a href="{{ url_for('cultural') }}">Cultural Globalization</a></li>
                 <li><a href="{{ url_for('challenges') }}">Challenges</a></li>
@@ -67,7 +67,7 @@
     <li>Protests: Brexit, anti-trade agreements.</li>
     <li>Trade Wars: U.S.-China relations.</li>
 </ul>
-<a href="https://forms.google.com">Take the poll</a>
+
 
 <h2>Conclusion</h2>
 <p>Is globalization good or bad? Share your thoughts.</p>
