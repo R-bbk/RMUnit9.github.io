@@ -50,9 +50,9 @@
     <li>Music & Entertainment: K-pop, Hollywood.</li>
     <li>Fast Food Chains: McDonald's in different countries.</li>
 </ul>
-<insert Video> [![Watch the video](https://img.youtube.com/vi/a2YDx6MGXe8/maxresdefault.jpg)](https://youtu.be/a2YDx6MGXe8)
+<insert Video> <Vid src=(https://img.youtube.com/vi/a2YDx6MGXe8/maxresdefault.jpg)](https://youtu.be/a2YDx6MGXe8)
 
-### [McDonalds menue in Phillippines](https://youtu.be/a2YDx6MGXe8)
+### [McDonald's menu in the Phillippines](https://youtu.be/a2YDx6MGXe8)
    
 
 <h2>Challenges of Globalization</h2>
